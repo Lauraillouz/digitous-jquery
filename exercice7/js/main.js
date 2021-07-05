@@ -1,0 +1,5 @@
+$(() => {
+    $("#text").css({
+        "display": "contents"
+    })
+})
