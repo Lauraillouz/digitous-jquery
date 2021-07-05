@@ -1,0 +1,3 @@
+$(() => {
+    $("#text").addClass("float-right")
+})
